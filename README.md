@@ -1,5 +1,5 @@
 # Unit Converter
-A project that i did in my first semester that i'm uploading now. This C++ program provides a simple unit conversion tool for currency, temperature, and mass.
+A project that i did in my first semester that i'm uploading now. This program provides a simple unit conversion tool for currency, temperature, and mass.
 
 ## Features
 
